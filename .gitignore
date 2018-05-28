@@ -1,0 +1,10 @@
+Include
+Include/*
+Lib
+Lib/*
+Scripts
+Scripts/*
+tcl
+tcl/*
+.gitignore
+pip-selfcheck.json
