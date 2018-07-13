@@ -1,1 +1,12 @@
-// instructions related to MongoDB installations and other basic operations
+
+1. downlaod and install MongoDB from www.mongodb.com
+2. create data->db and log folder insite mongodb installed folder
+3. navigate from admin cmd into bin folder
+4. set mongodb flag by running: mongod --directoryperdb --dbpath C:\mongodb\db --logpath C:\mongodb\log\mongo.log --logappend --rest --install
+5. start mongodb service by running: net start mongoDB
+6. access mongodb shell navigate from cmd into bin folder and run mongo
+
+Mongo DB functionalities:
+show dbs
+use db_name
+
