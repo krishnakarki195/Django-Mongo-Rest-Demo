@@ -6,7 +6,7 @@
 5. start mongodb service by running: net start mongoDB
 6. access mongodb shell navigate from cmd into bin folder and run mongo
 
-Mongo DB functionalities:
+Mongo DB functionalities: mongo --username alice --password abc123 --host mongodb0.tutorials.com --port 28015
 show dbs
 use db_name
 
